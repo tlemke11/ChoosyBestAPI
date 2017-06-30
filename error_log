@@ -1,0 +1,46 @@
+[08-Jun-2017 04:53:43 America/New_York] PHP Warning:  unlink(composer-setup.php): No such file or directory in Command line code on line 1
+[09-Jun-2017 00:00:09 America/New_York] PHP Warning:  include(/home/tyleshyw/public_html/bookbueno/vendor/composer/../../app/Console/Kernel.php): failed to open stream: No such file or directory in /home/tyleshyw/public_html/bookbueno/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 00:00:09 America/New_York] PHP Warning:  include(): Failed opening '/home/tyleshyw/public_html/bookbueno/vendor/composer/../../app/Console/Kernel.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tyleshyw/public_html/bookbueno/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 00:00:09 America/New_York] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Console\Kernel does not exist' in /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php:721
+Stack trace:
+#0 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(721): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(600): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(567): Illuminate\Container\Container->resolve('App\\Console\\Ker...')
+#3 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(708): Illuminate\Container\Container->make('App\\Console\\Ker...')
+#4 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(246): Illuminate\Fou in /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 721
+[09-Jun-2017 00:00:18 America/New_York] PHP Warning:  include(/home/tyleshyw/public_html/bookbueno/vendor/composer/../../app/Console/Kernel.php): failed to open stream: No such file or directory in /home/tyleshyw/public_html/bookbueno/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 00:00:18 America/New_York] PHP Warning:  include(): Failed opening '/home/tyleshyw/public_html/bookbueno/vendor/composer/../../app/Console/Kernel.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tyleshyw/public_html/bookbueno/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 00:00:18 America/New_York] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Console\Kernel does not exist' in /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php:721
+Stack trace:
+#0 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(721): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(600): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(567): Illuminate\Container\Container->resolve('App\\Console\\Ker...')
+#3 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(708): Illuminate\Container\Container->make('App\\Console\\Ker...')
+#4 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(246): Illuminate\Fou in /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 721
+[09-Jun-2017 00:00:21 America/New_York] PHP Warning:  include(/home/tyleshyw/public_html/bookbueno/vendor/composer/../../app/Console/Kernel.php): failed to open stream: No such file or directory in /home/tyleshyw/public_html/bookbueno/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 00:00:21 America/New_York] PHP Warning:  include(): Failed opening '/home/tyleshyw/public_html/bookbueno/vendor/composer/../../app/Console/Kernel.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tyleshyw/public_html/bookbueno/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 00:00:21 America/New_York] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Console\Kernel does not exist' in /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php:721
+Stack trace:
+#0 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(721): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(600): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(567): Illuminate\Container\Container->resolve('App\\Console\\Ker...')
+#3 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(708): Illuminate\Container\Container->make('App\\Console\\Ker...')
+#4 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(246): Illuminate\Fou in /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 721
+[09-Jun-2017 00:00:29 America/New_York] PHP Warning:  include(/home/tyleshyw/public_html/bookbueno/vendor/composer/../../app/Console/Kernel.php): failed to open stream: No such file or directory in /home/tyleshyw/public_html/bookbueno/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 00:00:29 America/New_York] PHP Warning:  include(): Failed opening '/home/tyleshyw/public_html/bookbueno/vendor/composer/../../app/Console/Kernel.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tyleshyw/public_html/bookbueno/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 00:00:29 America/New_York] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Console\Kernel does not exist' in /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php:721
+Stack trace:
+#0 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(721): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(600): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(567): Illuminate\Container\Container->resolve('App\\Console\\Ker...')
+#3 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(708): Illuminate\Container\Container->make('App\\Console\\Ker...')
+#4 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(246): Illuminate\Fou in /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 721
+[09-Jun-2017 00:01:02 America/New_York] PHP Warning:  include(/home/tyleshyw/public_html/bookbueno/vendor/composer/../../app/Console/Kernel.php): failed to open stream: No such file or directory in /home/tyleshyw/public_html/bookbueno/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 00:01:02 America/New_York] PHP Warning:  include(): Failed opening '/home/tyleshyw/public_html/bookbueno/vendor/composer/../../app/Console/Kernel.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tyleshyw/public_html/bookbueno/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 00:01:02 America/New_York] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Console\Kernel does not exist' in /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php:721
+Stack trace:
+#0 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(721): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(600): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(567): Illuminate\Container\Container->resolve('App\\Console\\Ker...')
+#3 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(708): Illuminate\Container\Container->make('App\\Console\\Ker...')
+#4 /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php(246): Illuminate\Fou in /home/tyleshyw/public_html/bookbueno/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 721
