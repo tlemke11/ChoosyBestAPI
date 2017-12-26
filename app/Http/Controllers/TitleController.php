@@ -57,10 +57,10 @@ class TitleController extends Controller {
 		//The majority of this code is copied straight from
 		//http://webservices.amazon.com/scratchpad inside of my account
 		// Your AWS Access Key ID, as taken from the AWS Your Account page
-		$aws_access_key_id = "AKIAIG3KN5WGYN6FL67A";
+		$aws_access_key_id = "key_here";
 
 		// Your AWS Secret Key corresponding to the above ID, as taken from the AWS Your Account page
-		$aws_secret_key = "XwFu63jS7hoTh4Ne7z9eFNd2zHyxqaBD6SXicY6l";
+		$aws_secret_key = "secret_here";
 
 		// The region you are interested in
 		$endpoint = "webservices.amazon.com";
@@ -158,7 +158,7 @@ class TitleController extends Controller {
 		//ratings url
 		$url = "https://www.goodreads.com/book/review_counts.json";
 		//my app key - keep it secret, keep it safe
-		$secretKey = "2ULRwZcsSWikHdtYjRLahg";
+		$secretKey = "key_here";
 		//isbn portion here
 		//$isbnUrlPortion = "&isbns=".$isbn;
 
