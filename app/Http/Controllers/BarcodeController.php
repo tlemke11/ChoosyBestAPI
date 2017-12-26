@@ -61,10 +61,10 @@ class BarcodeController extends Controller {
 		//The majority of this code is copied straight from
 		//http://webservices.amazon.com/scratchpad inside of my account
 		// Your AWS Access Key ID, as taken from the AWS Your Account page
-		$aws_access_key_id = "AKIAIG3KN5WGYN6FL67A";
+		$aws_access_key_id = "access_key_here";
 
 		// Your AWS Secret Key corresponding to the above ID, as taken from the AWS Your Account page
-		$aws_secret_key = "XwFu63jS7hoTh4Ne7z9eFNd2zHyxqaBD6SXicY6l";
+		$aws_secret_key = "secret_here";
 
 		// The region you are interested in
 		$endpoint = "webservices.amazon.com";
